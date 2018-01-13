@@ -36,10 +36,10 @@
    	<div class="row">
 
    		<div class="top-bar">
-   			<a class="menu-toggle" href="#"><span>Change Menu</span></a>
+   			<a class="menu-toggle" href="#"><span>Menu</span></a>
 
-	   		<div class="logo">
-		         <a href="indexsssssss.html">Change Gurman Singh</a>
+	   		<div class="lgo">
+		         <a href="index.html">Gurman Singh</a>
 		      </div>		      
 
 		   	<nav id="main-nav-wrap">
