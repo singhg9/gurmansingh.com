@@ -3,9 +3,9 @@
    <!--- basic page needs
    ================================================== -->
    <meta charset="utf-8">
-	<title>Kards</title>
-	<meta name="description" content="">  
-	<meta name="author" content="">
+	<title>Gurman Singh</title>
+	<meta name="Resume" content="">  
+	<meta name="Gurman Singh" content="">
 
    <!-- mobile specific metas
    ================================================== -->
@@ -70,11 +70,11 @@
    			<div class="col-twelve">
 
 	   			<h5>Hello, World.</h5>
-	   			<h1>I'm Juan Dela Cruz.</h1>
+	   			<h1>I'm Gurman Singh.</h1>
 
 	   			<p class="intro-position">
-	   				<span>Front-end Developer</span>
-	   				<span>UI/UX Designer</span> 
+	   				<span>Software Product Marketing</span>
+	   				<span>AMD</span> 
 	   			</p>
 
 	   			<a class="button stroke smoothscroll" href="#about" title="">More About Me</a>
