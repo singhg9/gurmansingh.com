@@ -36,10 +36,10 @@
    	<div class="row">
 
    		<div class="top-bar">
-   			<a class="menu-toggle" href="#"><span>Menu</span></a>
+   			<a class="menu-toggle" href="#"><span>Change Menu</span></a>
 
 	   		<div class="logo">
-		         <a href="index.html">Gurman Singh</a>
+		         <a href="indexsssssss.html">Change Gurman Singh</a>
 		      </div>		      
 
 		   	<nav id="main-nav-wrap">
@@ -70,7 +70,7 @@
    			<div class="col-twelve">
 
 	   			<h5>Hello, World.</h5>
-	   			<h1>I'm Gurman Singhs.</h1>
+	   			<h1>I'm Gurman Singh.</h1>
 
 	   			<p class="intro-position">
 	   				<span>Software Product Marketing</span>
