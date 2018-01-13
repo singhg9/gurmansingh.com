@@ -38,7 +38,7 @@
    		<div class="top-bar">
    			<a class="menu-toggle" href="#"><span>Menu</span></a>
 
-	   		<div class="lgo">
+	   		<div class="logo">
 		         <a href="index.html">Gurman Singh</a>
 		      </div>		      
 
