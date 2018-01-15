@@ -109,7 +109,7 @@
 
    				<img src="images/profile-pic.jpg" alt="Profile Picture">
 
-   				<p class="lead">Lorem ipsum Exercitation culpa qui dolor consequat exercitation fugiat laborum ex ea eiusmod ad do aliqua occaecat nisi ad irure sunt id pariatur Duis laboris amet exercitation veniam labore consectetur ea id quis eiusmod.</p>
+   				<p class="lead">An experienced Marketing Professional with proven ability to translate customer requirements and business objectives into marketing strategies and tactics. A highly organized, detail-oriented, and conscientious self-starter, able to strategize and prioritize effectively to accomplish multiple tasks with creativity, enthusiasm and humor.</p>
    			</div>   			
 
    		</div>   		
@@ -125,23 +125,25 @@
    			<ul class="info-list">
    				<li>
    					<strong>Fullname:</strong>
-   					<span>Juan Dela Cruz</span>
-   				</li>
-   				<li>
-   					<strong>Birth Date:</strong>
-   					<span>September 28, 1987</span>
+   					<span>Gurman Singh</span>
    				</li>
    				<li>
    					<strong>Job:</strong>
-   					<span>Freelancer, Frontend Developer</span>
-   				</li>
-   				<li>
-   					<strong>Website:</strong>
-   					<span>www.kardswebsite.com</span>
+   					<span>Software Product Marketing</span>
    				</li>
    				<li>
    					<strong>Email:</strong>
-   					<span>me@kardswebsite.com</span>
+   					<span>gsing994@gmail.com</span>
+   				</li>
+   				<li>
+   					<strong>Phone:</strong>
+   					<span><a href="tel:+1-226-908-9134">2269809134</a></span>
+   				</li>
+
+
+   				<li>
+   					<strong>Website:</strong>
+   					<span><a href="http://www.gurmansingh.com">www.GurmanSingh.com</a></span>
    				</li>
 
    			</ul> <!-- /info-list -->
