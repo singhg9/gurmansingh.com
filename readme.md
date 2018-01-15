@@ -133,11 +133,11 @@
    				</li>
    				<li>
    					<strong>Email:</strong>
-   					<span>gsing994@gmail.com</span>
+   					<span><a href="gsing994@gmail.com">gsing994@gmail.com</a></span>
    				</li>
    				<li>
    					<strong>Phone:</strong>
-   					<span><a href="tel:+1-226-908-9134">2269809134</a></span>
+   					<span><a href="tel:+1-226-980-9134">2269809134</a></span>
    				</li>
 
 
