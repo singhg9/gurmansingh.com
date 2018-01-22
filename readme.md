@@ -1,4 +1,4 @@
-<head>
+﻿<head>
 
    <!--- basic page needs
    ================================================== -->
@@ -24,7 +24,7 @@
 
    <!-- favicons
 	================================================== -->
-	<link rel="icon" type="image/png" href="icon.png">
+	<link rel="icon" type="image.png" href="icon.png">
 
 </head>
 
@@ -85,11 +85,7 @@
    	</div> <!-- /intro-content --> 
 
    	<ul class="intro-social">        
-         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-         <li><a href="#"><i class="fa fa-behance"></i></a></li>
-         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-         <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-         <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+         <li><a href="https://www.linkedin.com/in/gurmansingh1/"><i class="fa fa-linkedin"></i></a></li>
       </ul> <!-- /intro-social -->      	
 
    </section> <!-- /intro -->
@@ -109,7 +105,7 @@
 
    				<img src="images/profile-pic.jpg" alt="Profile Picture">
 
-   				<p class="lead">An experienced Marketing Professional with proven ability to translate customer requirements and business objectives into marketing strategies and tactics. A highly organized, detail-oriented, and conscientious self-starter, able to strategize and prioritize effectively to accomplish multiple tasks with creativity, enthusiasm and humor.</p>
+   				<p class="lead">With over 5 years of in Fortune 500 software marketing, I have experience in strategy, advertising, social media, copywriting and press engagement. I have lead over 3 large software launches with over 200 million downloads and 250 million monthly impressions.</p>
    			</div>   			
 
    		</div>   		
@@ -120,16 +116,16 @@
    		<div class="col-six tab-full">
 
    			<h3>Profile</h3>
-   			<p>Lorem ipsum Qui veniam ut consequat ex ullamco nulla in non ut esse in magna sint minim officia consectetur nisi commodo ea magna pariatur nisi cillum.</p>
+   			<p>Below is my contact information. Feel free to contact me at any time potential opportunities, career advice or a friendly coffee. </p>
 
    			<ul class="info-list">
    				<li>
    					<strong>Fullname:</strong>
-   					<span>Gurman Singh</span>
+   					<span><a href="https://www.linkedin.com/in/gurmansingh1/">Gurman Singh</a></span>
    				</li>
    				<li>
    					<strong>Job:</strong>
-   					<span>Software Product Marketing</span>
+   					<span><a href="https://www.linkedin.com/in/gurmansingh1/">Software Product Marketing</a></span>
    				</li>
    				<li>
    					<strong>Email:</strong>
@@ -153,29 +149,29 @@
    		<div class="col-six tab-full">
 
    			<h3>Skills</h3>
-   			<p>Lorem ipsum Qui veniam ut consequat ex ullamco nulla in non ut esse in magna sint minim officia consectetur nisi commodo ea magna pariatur nisi cillum.</p>
+   			<p>Here is how I rate my skills. I excel on creating software marketing strategies and would love to work on my website development skills.</p>
 
 				<ul class="skill-bars">
 				   <li>
 				   	<div class="progress percent90"><span>90%</span></div>
-				   	<strong>HTML5</strong>
+				   	<strong>Marketing Strategy</strong>
 				   </li>
 				   <li>
 				   	<div class="progress percent85"><span>85%</span></div>
-				   	<strong>CSS3</strong>
+				   	<strong>Digital Advertising</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent70"><span>70%</span></div>
-				   	<strong>JQuery</strong>
+				   	<div class="progress percent75"><span>75%</span></div>
+				   	<strong>Website Design</strong>
 				   </li>
 				   <li>
 				   	<div class="progress percent95"><span>95%</span></div>
-				   	<strong>PHP</strong>
+				   	<strong>Content Development</strong>
 				   </li>
 				   <li>
 
-				   	<div class="progress percent75"><span>75%</span></div>
-				   	<strong>Wordpress</strong>
+				   	<div class="progress percent80"><span>80%</span></div>
+				   	<strong>Mobile Marketing</strong>
 				   </li>
       
 				</ul> <!-- /skill-bars -->		
@@ -186,8 +182,8 @@
 
    	<div class="row button-section">
    		<div class="col-twelve">
-   			<a href="#contact" title="Hire Me" class="button stroke smoothscroll">Hire Me</a>
-   			<a href="#" title="Download CV" class="button button-primary">Download CV</a>
+   			<a href="#contact" title="Let's Talk" class="button stroke smoothscroll">Let's Talk</a>
+   			<a href="Gurman Singh Resume.docx" title="Download CV" class="button button-primary">Download CV</a>
    		</div>   		
    	</div>
 
@@ -204,7 +200,7 @@
    			<h5>Resume</h5>
    			<h1>More of my credentials.</h1>
 
-   			<p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
+   			<p class="lead">***********.</p>
 
    		</div>   		
    	</div> <!-- /section-intro--> 
@@ -228,13 +224,19 @@
 	   				</div>
 
 	   				<div class="timeline-header">
-	   					<h3>UI Designer</h3>
-	   					<p>July 2015 - Present</p>
+	   					<h3>Software Product Marketing</h3>
+	   					<p>July 2016 - Present</p>
 	   				</div>
 
 	   				<div class="timeline-content">
-	   					<h4>Awesome Studio</h4>
-	   					<p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.</p>
+	   					<h4>Advanced Micro Devices</h4>
+	   					<ul>
+	   						<li>Communicated Radeon Software’s value proposition, messaging and competitive positioning to target customers</li>
+	   						<li>Created PRDs and worked with Product Management Team to define and deliver product enhancements</li>
+	   						<li>Collaborated closely with internal teams to develop channel marketing programs, demos and launch events</li>
+	   						<li>Conducted marketing surveys to anticipate industry trends and competitive landscape and provided recommendations for product features, channels, customers, and new technologies</li>
+	   						<li>Created marketing content for sales enablement, marketing newsletter and other customer viewable web content</li>
+	   						</ul>
 	   				</div>
 
 	   			</div> <!-- /timeline-block -->
@@ -246,13 +248,18 @@
 	   				</div>
 
 	   				<div class="timeline-header">
-	   					<h3>Front-end Developer</h3>
-	   					<p>July 2014 - June 2015</p>
+	   					<h3>Microsoft Licensing Specialist</h3>
+	   					<p>January 2015 - May 2016</p>
 	   				</div>
 
 	   				<div class="timeline-content">
-	   					<h4>Super Cool Agency</h4>
-	   					<p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+	   					<h4>University of Western Ontario</h4>
+	   					<ul>
+	   						<li>Worked with licensing and CRM software to sell SaaS</li>
+	   						<li>Evaluated the software needs of faculty and businesses to increase efficiency</li>
+	   						<li>Provided products which promoted the integration of accessibility with technology</li>
+	   						<li>Worked directly with sales agents and used various negotiation and sales techniques</li>
+	   						</ul>
 	   				</div>
 
 	   			</div> <!-- /timeline-block -->
@@ -264,13 +271,20 @@
 	   				</div>
 
 	   				<div class="timeline-header">
-	   					<h3>Web Designer</h3>
+	   					<h3>Microsoft Marketing Lead</h3>
 	   					<p>May 2013 - June 2014</p>
 	   				</div>
 
 	   				<div class="timeline-content">
-	   					<h4>Great Designs Studio</h4>
-	   					<p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+	   					<h4>Intercept Group</h4>
+	   						<ul>
+	   							<li>Managed a cross-functional team to target various markets with targeted individual campaigns</li>
+	   							<li>Stimulated Microsoft product sales by creating and launching promotions for Software as a Service (SaaS) products</li>
+	   							<li>Led social media marketing campaigns on Facebook and Twitter to increase brand awareness and purchase intent</li>
+	   							<li>Conducted market research to gain valuable customer behavior preferences to better serve customers</li>
+	   							<li>Created online advertising and marketing products to initiate a buzz within specific districts</li>
+	   							<li>Ensured marketing programs aligned with the overall strategy and vision of Microsoft Canada</li>
+	   						</ul>
 	   				</div>
 
 	   			</div> <!-- /timeline-block -->
