@@ -220,7 +220,13 @@
    				<div class="timeline-block">
 
 	   				<div class="timeline-ico">
-	   					<i class="fa fa-graduation-cap"></i>
+	   					<style>
+							img {
+   							 width: 60%;
+    						 height: auto;
+							}
+						</style>
+	   					<img src="images/amd.png" alt="Advanced Micro Devices">
 	   				</div>
 
 	   				<div class="timeline-header">
@@ -244,7 +250,13 @@
 	   			<div class="timeline-block">
 
 	   				<div class="timeline-ico">
-	   					<i class="fa fa-graduation-cap"></i>
+	   					<style>
+							img {
+   							 width: 60%;
+    						 height: auto;
+							}
+						</style>
+	   					<img src="images/ig.png" alt="Advanced Micro Devices">
 	   				</div>
 
 	   				<div class="timeline-header">
