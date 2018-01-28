@@ -256,7 +256,7 @@
     						 height: auto;
 							}
 						</style>
-	   					<img src="images/ig.png" alt="Intercept Group">
+	   					<img src="images/western.png" alt="Intercept Group">
 	   				</div>
 
 	   				<div class="timeline-header">
@@ -285,7 +285,7 @@
     						 height: auto;
 							}
 						</style>
-	   					<img src="images/amd.png" alt="Advanced Micro Devices">
+	   					<img src="images/ig.png" alt="Advanced Micro Devices">
 	   				</div>
 
 	   				<div class="timeline-header">
@@ -328,53 +328,23 @@
    				<div class="timeline-block">
 
 	   				<div class="timeline-ico">
-	   					<i class="fa fa-briefcase"></i>
+	   					<style>
+							img {
+   							 width: 60%;
+    						 height: auto;
+							}
+						</style>
+	   					<img src="images/western.png" alt="Intercept Group">
 	   				</div>
 
 	   				<div class="timeline-header">
-	   					<h3>Master Degree</h3>
-	   					<p>July 2015 - Present</p>
+	   					<h3>Bachelor of Science</h3>
+	   					<p>April 2016</p>
 	   				</div>
 
 	   				<div class="timeline-content">
-	   					<h4>University of Life</h4>
-	   					<p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.</p>
-	   				</div>
-
-	   			</div> <!-- /timeline-block -->
-
-	   			<div class="timeline-block">
-
-	   				<div class="timeline-ico">
-	   					<i class="fa fa-briefcase"></i>
-	   				</div>
-
-	   				<div class="timeline-header">
-	   					<h3>Bachelor Degree</h3>
-	   					<p>July 2014 - June 2015</p>
-	   				</div>
-
-	   				<div class="timeline-content">
-	   					<h4>State Design University</h4>
-	   					<p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
-	   				</div>
-
-	   			</div> <!-- /timeline-block -->
-
-	   			<div class="timeline-block">
-
-	   				<div class="timeline-ico">
-	   					<i class="fa fa-briefcase"></i>
-	   				</div>
-
-	   				<div class="timeline-header">
-	   					<h3>Bachelor Degree</h3>
-	   					<p>May 2013 - June 2014</p>
-	   				</div>
-
-	   				<div class="timeline-content">
-	   					<h4>Design College</h4>
-	   					<p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+	   					<h4>University of Western Ontario</h4>
+	   					<p>Receieved a Bachelor of Science</p>
 	   				</div>
 
 	   			</div> <!-- /timeline-block -->
