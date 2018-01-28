@@ -256,11 +256,11 @@
     						 height: auto;
 							}
 						</style>
-	   					<img src="images/ig.png" alt="Advanced Micro Devices">
+	   					<img src="images/ig.png" alt="Intercept Group">
 	   				</div>
 
 	   				<div class="timeline-header">
-	   					<h3>Microsoft Licensing Specialist</h3>
+	   					<h3>Microsoft Specialist</h3>
 	   					<p>January 2015 - May 2016</p>
 	   				</div>
 
@@ -279,7 +279,13 @@
 	   			<div class="timeline-block">
 
 	   				<div class="timeline-ico">
-	   					<i class="fa fa-graduation-cap"></i>
+	   					<style>
+							img {
+   							 width: 60%;
+    						 height: auto;
+							}
+						</style>
+	   					<img src="images/amd.png" alt="Advanced Micro Devices">
 	   				</div>
 
 	   				<div class="timeline-header">
