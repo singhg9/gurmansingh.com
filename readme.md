@@ -420,7 +420,7 @@
 
 	            <div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/portfolio/ReLive.gif"alt="Radeon Software Crimson ReLive Edition">
+	               	<img src="images/portfolio/Relive.gif" alt="Radeon Software Crimson ReLive Edition">
 	                  <a href="#modal-03" class="overlay">             		                  
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
