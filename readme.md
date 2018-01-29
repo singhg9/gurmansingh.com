@@ -256,7 +256,7 @@
     						 height: auto;
 							}
 						</style>
-	   					<img src="images/western.png" alt="Intercept Group">
+	   					<img src="images/western.png" alt="University of Western Ontario">
 	   				</div>
 
 	   				<div class="timeline-header">
@@ -285,7 +285,7 @@
     						 height: auto;
 							}
 						</style>
-	   					<img src="images/ig.png" alt="Advanced Micro Devices">
+	   					<img src="images/western.png" alt="Intercept Group">
 	   				</div>
 
 	   				<div class="timeline-header">
