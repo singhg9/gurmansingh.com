@@ -439,7 +439,7 @@
 	            <div id="modal-01" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<iframe width="90%" height="40%"
+				     		<iframe width="100%" height="40%"
 								src="https://www.youtube.com/embed/8VcPbulxY2k">
 							</iframe>
 				     	</div>      	
@@ -511,34 +511,6 @@
    	</div> <!-- /portfolio-content --> 
 		
 	</section> <!-- /portfolio --> 
-
-
-	<!-- CTA Section
-   ================================================== -->
-	<section id="cta" class="grey-section">
-
-   	<div class="row cta-content">
-
-   		<div class="col-twelve section-ads">  
-
-	     		<h2 class="h01"><a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT">Styleshout Recommends Dreamhost.</a></h2>
-
-		      <p class="lead">
-		      Looking for an awesome and reliable webhosting? Try <a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT"><span>DreamHost</span></a>.
-				Get <span>$50 off</span> when you sign up with the promocode <span>styleshout</span>. 
-				<!-- Simply type	the promocode in the box labeled “Promo Code” when placing your order. -->	
-				</p>
-
-				<div class="action">
-			      <a class="button button-primary large" href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT">Sign Up Now</a>
-		      </div>		     	
-
-   		</div>
-
-   	</div> <!-- /cta-content -->
-
-   </section> <!-- /cta --> 
-
 	
 	<!-- services Section
    ================================================== -->
