@@ -439,7 +439,7 @@
 	            <div id="modal-01" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<iframe width="100%" height="60%"
+				     		<iframe width="100%" height="45%"
 								src="https://www.youtube.com/embed/8VcPbulxY2k">
 							</iframe>
 				     	</div>      	
@@ -461,20 +461,20 @@
 				   <div id="modal-02" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<iframe width="100%" height="60%"
+				     		<iframe width="100%" height="45%"
 								src="https://www.youtube.com/embed/5eqhU5hLe7M">
 							</iframe>
 				     	</div>      	
 
 					   <div class="description-box">
-					      <h4>Shutterbug</h4>		      
-					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+					      <h4>Radeon Software 17.7.2</h4>		      
+					      <p>Visited PC Perspective to discuss the Radeon Software Crimson ReLive Edition 17.7.2 software suite.</p>
 
-					      <div class="categories">Web Design</div>			               
+					      <div class="categories">Press Engagement</div>			               
 					   </div>
 
 			         <div class="link-box">
-			            <a href="http://www.behance.net">Details</a>
+			            <a href="https://www.pcper.com/reviews/Graphics-Cards/AMD-updates-Crimson-ReLive-1772-new-features-better-performance">Learn More</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
@@ -483,18 +483,20 @@
 				   <div id="modal-03" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="images/portfolio/modals/m-clouds.jpg" alt="" />
+				     		<iframe width="100%" height="45%"
+								src="https://www.youtube.com/embed/nRSm12lwRe4">
+							</iframe>
 				     	</div>      	
 
 					   <div class="description-box">
-					      <h4>Clouds</h4>		      
-					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+					      <h4>Radeon Software Crimson ReLive Edition</h4>		      
+					      <p>Created and released a 70+ presentation on new, innovative features within Radeon Software Crimson ReLive Edition.</p>
 
 					      <div class="categories">Web Design</div>			               
 					   </div>
 
 			         <div class="link-box">
-			            <a href="http://www.behance.net">Details</a>
+			            <a href="https://wccftech.com/amd-launches-radeon-software-crimson-relive-edition-download/">Learn More</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
