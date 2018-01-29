@@ -408,7 +408,7 @@
 	               	<a href="#modal-02" class="overlay">              		                  
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
-	                     		<h3 class="folio-title">Radeon Software 17.7.2</h3>	     					    
+	                     		<h3 class="folio-title">Radeon Software 17.87.2</h3>	     					    
 		     					    	<span class="folio-types">
 		     					       	  Mid-Year Software Release
 		     					      </span>		     		
