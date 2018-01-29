@@ -285,7 +285,7 @@
     						 height: auto;
 							}
 						</style>
-	   					<img src="images/western.png" alt="Intercept Group">
+	   					<img src="images/IG.png" alt="Intercept Group">
 	   				</div>
 
 	   				<div class="timeline-header">
@@ -388,7 +388,7 @@
     						 height: auto;
 							}
 						</style>
-	               	<img src="images/portfolio/adrenalin.png" alt="Radeon Software Adrenalin Edition">
+	               	<img src="images/portfolio/Adrenalin.png" alt="Radeon Software Adrenalin Edition">
 	                  <a href="#modal-01" class="overlay">	                  	           
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
@@ -404,7 +404,7 @@
 
 	        		<div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/portfolio/kicker.gif" alt="Radeon Software Crimson ReLive Edition 17.7.2">
+	               	<img src="images/portfolio/Kicker.gif" alt="Radeon Software Crimson ReLive Edition 17.7.2">
 	               	<a href="#modal-02" class="overlay">              		                  
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
@@ -420,7 +420,7 @@
 
 	            <div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/portfolio/relive.gif"alt="Radeon Software Crimson ReLive Edition">
+	               	<img src="images/portfolio/ReLive.gif"alt="Radeon Software Crimson ReLive Edition">
 	                  <a href="#modal-03" class="overlay">             		                  
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
