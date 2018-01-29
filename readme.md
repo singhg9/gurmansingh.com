@@ -70,7 +70,7 @@
    			<div class="col-twelve">
 
 	   			<h5>Hello, World.</h5>
-	   			<h1>I'm Gurman Singh.</h1>
+	   			<h1>I'm Gurman Singhs.</h1>
 
 	   			<p class="intro-position">
 	   				<span>Software Product Marketing</span>
@@ -382,7 +382,7 @@
 
 	         	<div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               <style>
+	               	<style>
 							img {
    							 width: 100%;
     						 height: auto;
@@ -439,22 +439,20 @@
 	            <div id="modal-01" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<div class="media">
-				     		<iframe width="100%" height="50%"
-								src="https://www.youtube.com/watch?v=8VcPbulxY2k">
+				     		<iframe width="100%" height="60%"
+								src="https://www.youtube.com/embed/tgbNymZ7vqY">
 							</iframe>
-				     	</div>      
 				     	</div>      	
 
 					   <div class="description-box">
-					      <h4>Radeon Software Adrenalin Edition</h4>		      
-					      <p>Successfully developed and activated all Radeon Software Adrenalin Edition assets. "Perfect! Finally the right way and good marketing, this is what gamers desire!﻿"</p>
+					      <h4>Liberty</h4>		      
+					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 
-					      <div class="categories">Major Software Release</div>			               
+					      <div class="categories">Web Development</div>			               
 					   </div>
 
 			         <div class="link-box">
-			            <a href="https://gaming.radeon.com/en/radeonsoftware/adrenalin/">Learn More</a>
+			            <a href="http://www.behance.net">Details</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
@@ -463,21 +461,18 @@
 				   <div id="modal-02" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<div class="media">
-				     		<iframe width="100%" height="50%"
-								src="https://www.youtube.com/watch?v=5eqhU5hLe7M">
-							</iframe>
-				     	</div>          	
+				     		<img src="images/portfolio/modals/m-shutterbug.jpg" alt="" />
+				     	</div>      	
 
 					   <div class="description-box">
-					      <h4>Radeon Software 17.7.2</h4>		      
-					      <p>Visited PC Perspective to discuss the Radeon Software Crimson ReLive Edition 17.7.2 software suite.</p>
+					      <h4>Shutterbug</h4>		      
+					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 
-					      <div class="categories">Press Engagement</div>			               
+					      <div class="categories">Web Design</div>			               
 					   </div>
 
 			         <div class="link-box">
-			            <a href="https://www.pcper.com/reviews/Graphics-Cards/AMD-updates-Crimson-ReLive-1772-new-features-better-performance">Learn More</a>
+			            <a href="http://www.behance.net">Details</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
@@ -486,14 +481,11 @@
 				   <div id="modal-03" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<div class="media">
-				     		<iframe width="100%" height="50%"
-								src="https://www.youtube.com/watch?v=nRSm12lwRe4">
-							</iframe>
-				     	</div>     	
+				     		<img src="images/portfolio/modals/m-clouds.jpg" alt="" />
+				     	</div>      	
 
 					   <div class="description-box">
-					      <h4>Radeon Software Crimson ReLive Edition</h4>		      
+					      <h4>Clouds</h4>		      
 					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 
 					      <div class="categories">Web Design</div>			               
@@ -505,6 +497,68 @@
 			         </div>		      
 
 				   </div> <!-- /modal-03 -->
+
+				   <div id="modal-04" class="popup-modal slider mfp-hide">	
+
+				     	<div class="media">
+				     		<img src="images/portfolio/modals/m-beetle.jpg" alt="" />
+				     	</div>      	
+
+					   <div class="description-box">
+					      <h4>Beetle</h4>		      
+					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+
+					      <div class="categories">Branding</div>			               
+					   </div>
+
+			         <div class="link-box">
+			            <a href="http://www.behance.net">Details</a>
+					      <a href="#" class="popup-modal-dismiss">Close</a>
+			         </div>		      
+
+				   </div> <!-- /modal-04 -->
+
+				   <div id="modal-05" class="popup-modal slider mfp-hide">	
+
+				     	<div class="media">
+				     		<img src="images/portfolio/modals/m-lighthouse.jpg" alt="" />
+				     	</div>      	
+
+					   <div class="description-box">
+					      <h4>Lighthouse</h4>		      
+					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+
+					      <div class="categories">Web Development</div>			               
+					   </div>
+
+			         <div class="link-box">
+			            <a href="http://www.behance.net">Details</a>
+					      <a href="#" class="popup-modal-dismiss">Close</a>
+			         </div>		      
+
+				   </div> <!-- /modal-05 -->
+
+				   <div id="modal-06" class="popup-modal slider mfp-hide">	
+
+				     	<div class="media">
+				     		<img src="images/portfolio/modals/m-salad.jpg" alt="" />
+				     	</div>      	
+
+					   <div class="description-box">
+					      <h4>Salad</h4>		      
+					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+
+					      <div class="categories">Branding</div>			               
+					   </div>
+
+			         <div class="link-box">
+			            <a href="http://www.behance.net">Details</a>
+					      <a href="#" class="popup-modal-dismiss">Close</a>
+			         </div>		      
+
+				   </div> <!-- /modal-06 -->
+
+
 				   <!-- modal popups - end
 	            ============================================================= -->
 
