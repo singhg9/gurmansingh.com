@@ -440,7 +440,7 @@
 
 				     	<div class="media">
 				     		<iframe width="100%" height="60%"
-								src="https://www.youtube.com/watch?v=8VcPbulxY2k">
+								src="https://www.youtube.com/embed/8VcPbulxY2k">
 							</iframe>
 				     	</div>      	
 
@@ -448,11 +448,11 @@
 					      <h4>Radeon Software Adrenalin Edition</h4>		      
 					      <p>Successfully developed and activated all Radeon Software Adrenalin Edition assets. "Perfect! Finally the right way and good marketing, this is what gamers desire!﻿</p>
 
-					      <div class="categories">Web Development</div>			               
+					      <div class="categories">Major Software Release</div>			               
 					   </div>
 
 			         <div class="link-box">
-			            <a href="http://www.behance.net">Details</a>
+			            <a href="https://gaming.radeon.com/en/radeonsoftware/adrenalin/">Learn More</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
@@ -461,7 +461,9 @@
 				   <div id="modal-02" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="images/portfolio/modals/m-shutterbug.jpg" alt="" />
+				     		<iframe width="100%" height="60%"
+								src="https://www.youtube.com/embed/5eqhU5hLe7M">
+							</iframe>
 				     	</div>      	
 
 					   <div class="description-box">
