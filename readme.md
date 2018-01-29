@@ -439,7 +439,7 @@
 	            <div id="modal-01" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<iframe width="100%" height="45%"
+				     		<iframe width="100%" height="40%"
 								src="https://www.youtube.com/embed/8VcPbulxY2k">
 							</iframe>
 				     	</div>      	
@@ -461,7 +461,7 @@
 				   <div id="modal-02" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<iframe width="100%" height="45%"
+				     		<iframe width="100%" height="40%"
 								src="https://www.youtube.com/embed/5eqhU5hLe7M">
 							</iframe>
 				     	</div>      	
@@ -483,7 +483,7 @@
 				   <div id="modal-03" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<iframe width="100%" height="45%"
+				     		<iframe width="100%" height="40%"
 								src="https://www.youtube.com/embed/nRSm12lwRe4">
 							</iframe>
 				     	</div>      	
