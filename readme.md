@@ -571,67 +571,10 @@
 
          </div> <!-- /col-twelve -->
    		
-   	</div> <!-- /contact-form -->
-
-   	<div class="row contact-info">
-
-   		<div class="col-four tab-full">
-
-   		</div>
-
-   		<div class="col-four tab-full collapse">
-
-   			<div class="icon">
-   				<i class="icon-mail"></i>
-   			</div>
-
-   			<h5>Email Me At</h5>
-
-   			<p><span><a href="gsing994@gmail.com">gsing994@gmail.com</a><br>			     
-			   </p>
-
-   		</div>
-
-   		<div class="col-four tab-full">
-
-   			<div class="icon">
-   				<i class="icon-phone"></i>
-   			</div>
-
-   			<h5>Call Me At</h5>
-
-   			<p><span><a href="tel:+1-226-980-9134">Phone: (226) 980-9134</a></span>
-			   </p>
-
-   		</div>
-   		
    	</div> <!-- /contact-info -->
 		
 	</section> <!-- /contact -->
-
-
-   <!-- footer
-   ================================================== -->
-
-   <footer>
-     	<div class="row">
-
-     		<div class="col-six tab-full pull-right social">
-
-     			<ul class="footer-social">        
-			      <li><a href="https://www.linkedin.com/in/gurmansingh1/"><i class="fa fa-linkedin"></i></a></li>
-			   </ul> 
-	      		
-	      </div>
-
-	      	<div id="go-top">
-		         <a class="smoothscroll" title="Back to Top" href="#top"><i class="fa fa-long-arrow-up"></i></a>
-		      </div>
-
-      	</div> <!-- /row -->     	
-   </footer>  
-
-
+   	</div> <!-- /contact-form -->
 
    <!-- footer
    ================================================== -->
@@ -642,22 +585,10 @@
      		<div class="col-six tab-full pull-right social">
 
      			<ul class="footer-social">        
-			      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-			      <li><a href="#"><i class="fa fa-behance"></i></a></li>
-			      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-			      <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-			      <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+			      <li><a href="https://www.linkedin.com/in/gurmansingh1/"><i class="fa fa-linkedin fa-pull-right"></i></a></li>
 			   </ul> 
 	      		
 	      </div>
-
-      	<div class="col-six tab-full">
-	      	<div class="copyright">
-		        	<span>© Copyright Kards 2016.</span> 
-		        	<span>Design by <a href="http://www.styleshout.com/">styleshout</a></span>	         	
-		         </div>		                  
-	      	</div>
-
 	      	<div id="go-top">
 		         <a class="smoothscroll" title="Back to Top" href="#top"><i class="fa fa-long-arrow-up"></i></a>
 		      </div>
