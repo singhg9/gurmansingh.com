@@ -574,7 +574,7 @@
    	</div> <!-- /contact-info -->
 		
 	</section> <!-- /contact -->
-   	</diva> <!-- /contact-form -->
+    <!-- /contact-form -->
 
    <!-- footer
    ================================================== -->
