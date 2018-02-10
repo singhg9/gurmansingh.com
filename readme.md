@@ -382,7 +382,7 @@
 	               <div class="item-wrap">
 	               	<style>
 							img {
-   							 width: 100%;
+   							 width: 60%;
     						 height: auto;
 							}
 						</style>
