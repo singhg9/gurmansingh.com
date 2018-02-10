@@ -570,11 +570,11 @@
                <i class="fa fa-check"></i>Your message was sent, thank you!<br>
       		</div>
 
-         </div> <!-- /col-twelve -->
+    <!-- /col-twelve -->
    		
-   	</div> <!-- /contact-info -->
+    <!-- /contact-info -->
 		
-	</section> <!-- /contact -->
+    <!-- /contact -->
     <!-- /contact-form -->
 
    <!-- footer
@@ -606,5 +606,3 @@
    <script src="js/jquery-2.1.3.min.js"></script>
    <script src="js/plugins.js"></script>
    <script src="js/main.js"></script>
-
-</body>
