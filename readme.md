@@ -571,10 +571,10 @@
 
          </div> <!-- /col-twelve -->
    		
-   	</div> <!-- /contact-info -->
+   	</divs> <!-- /contact-info -->
 		
 	</section> <!-- /contact -->
-   	</div> <!-- /contact-form -->
+   	</diva> <!-- /contact-form -->
 
    <!-- footer
    ================================================== -->
@@ -588,10 +588,10 @@
 			      <li><a href="https://www.linkedin.com/in/gurmansingh1/"><i class="fa fa-linkedin fa-pull-right"></i></a></li>
 			   </ul> 
 	      		
-	      </diva>
+	      </div>
 	      	<div id="go-top">
 		         <a class="smoothscroll" title="Back to Top" href="#top"><i class="fa fa-long-arrow-up"></i></a>
-		      </divs>
+		      </div>
 
       	</div> <!-- /row -->     	
    </footer>  
