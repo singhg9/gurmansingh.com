@@ -571,7 +571,7 @@
 
          </div> <!-- /col-twelve -->
    		
-   	</divs> <!-- /contact-info -->
+   	</div> <!-- /contact-info -->
 		
 	</section> <!-- /contact -->
    	</diva> <!-- /contact-form -->
