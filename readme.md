@@ -531,7 +531,7 @@
    		<div class="col-twelve">
 
             <!-- form -->
-            <form name="contactForm" id="contactForm" action="mailto:gsing994@gmail.com.com" method="post">
+            <form name="contactForm" id="contactForm" form action="mailto:gsing994@gmail.com.com" method="post">
       			<fieldset>
 
                   <div class="form-field">
