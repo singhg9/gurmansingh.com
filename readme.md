@@ -588,10 +588,10 @@
 			      <li><a href="https://www.linkedin.com/in/gurmansingh1/"><i class="fa fa-linkedin fa-pull-right"></i></a></li>
 			   </ul> 
 	      		
-	      </div>
+	      </diva>
 	      	<div id="go-top">
 		         <a class="smoothscroll" title="Back to Top" href="#top"><i class="fa fa-long-arrow-up"></i></a>
-		      </div>
+		      </divs>
 
       	</div> <!-- /row -->     	
    </footer>  
