@@ -598,6 +598,7 @@
 
    <div id="preloader"> 
     	<div id="loader"></div>
+   </div> 
 
    <!-- Java Script
    ================================================== --> 
