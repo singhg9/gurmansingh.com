@@ -375,6 +375,12 @@ form,
 	margin-bottom: 3rem;
 }
 
+#resume img 
+{
+     max-width: 60%;
+	height: auto;
+}
+
 /**
  * floated image - (_document-setup.scss)  
  * -------------------------------------------------------------------
