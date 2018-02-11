@@ -39,7 +39,7 @@
    			<a class="menu-toggle" href="#"><span>Menu</span></a>
 
 	   		<div class="logo">
-		         <a href="index.html">Gurman Singhs</a>
+		         <a href="index.html">Gurman Singh</a>
 		      </div>		      
 
 		   	<nav id="main-nav-wrap">
