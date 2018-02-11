@@ -218,12 +218,6 @@
    				<div class="timeline-block">
 
 	   				<div class="timeline-ico">
-	   					<style>
-							img {
-   							 width: 60%;
-    						 height: auto;
-							}
-						</style>
 	   					<img src="images/amd.png" alt="Advanced Micro Devices">
 	   				</div>
 
@@ -248,12 +242,6 @@
 	   			<div class="timeline-block">
 
 	   				<div class="timeline-ico">
-	   					<style>
-							img {
-   							 width: 60%;
-    						 height: auto;
-							}
-						</style>
 	   					<img src="images/western.png" alt="University of Western Ontario">
 	   				</div>
 
@@ -277,12 +265,6 @@
 	   			<div class="timeline-block">
 
 	   				<div class="timeline-ico">
-	   					<style>
-							img {
-   							 width: 60%;
-    						 height: auto;
-							}
-						</style>
 	   					<img src="images/IG.png" alt="Intercept Group">
 	   				</div>
 
@@ -326,12 +308,6 @@
    				<div class="timeline-block">
 
 	   				<div class="timeline-ico">
-	   					<style>
-							img {
-   							 width: 60%;
-    						 height: auto;
-							}
-						</style>
 	   					<img src="images/western.png" alt="Intercept Group">
 	   				</div>
 
@@ -380,12 +356,6 @@
 
 	         	<div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<style>
-							img {
-   							 width: 60%;
-    						 height: auto;
-							}
-						</style>
 	               	<img src="images/portfolio/Adrenalin.png" alt="Radeon Software Adrenalin Edition">
 	                  <a href="#modal-01" class="overlay">	                  	           
 	                     <div class="folio-item-table">
