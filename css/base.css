@@ -385,6 +385,16 @@ textarea {
 	appearance: none;
 }
 
+#resume
+{
+       	<style>
+							img {
+   							 width: 100%;
+    						 height: auto;
+							}
+						</style>
+}
+
 /** 
  * ===================================================================
  * 03. grid - (_grid.scss)
