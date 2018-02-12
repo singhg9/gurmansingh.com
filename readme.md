@@ -103,7 +103,7 @@
 
    				<img src="images/profile-pic.jpg" alt="Profile Picture">
 
-   				<p class="lead">With over 4 years of in Fortune 500 software marketing, I have experience in strategy, advertising, social media, copywriting and press engagement. I have lead over 4 year-long campaigns driving over 200 million downloads and 250 million monthly impressions.</p>
+   				<p class="lead">With over 4 years of Fortune 500 software marketing, I have experience in strategy, advertising, social media, copywriting and press engagement. I have lead over 4 year-long campaigns driving over 200 million downloads and 250 million monthly impressions.</p>
    			</div>   			
 
    		</div>   		
