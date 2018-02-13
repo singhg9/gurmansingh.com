@@ -29,33 +29,6 @@
 </head>
 
 <body id="top">
-
-	<!-- header 
-   ================================================== -->
-   <header>   	
-   	<div class="row">
-
-   		<div class="top-bar">
-   			<a class="menu-toggle" href="#"><span>Menu</span></a>
-
-	   		<div class="logo">
-		         <a href="index.html">Gurman Singh</a>
-		      </div>		      
-
-		   	<nav id="main-nav-wrap">
-					<ul class="main-navigation">
-						<li class="current"><a class="smoothscroll"  href="#intro" title="">Home</a></li>
-						<li><a class="smoothscroll"  href="#about" title="">About</a></li>
-						<li><a class="smoothscroll"  href="#resume" title="">Resume</a></li>
-						<li><a class="smoothscroll"  href="#portfolio" title="">Portfolio</a></li>				
-						<li><a class="smoothscroll"  href="#contact" title="">Contact</a></li>			
-					</ul>
-				</nav>    		
-   		</div> <!-- /top-bar --> 
-   		
-   	</div> <!-- /row --> 		
-   </header> <!-- /header -->
-
 	<!-- intro section
    ================================================== -->
    <section id="intro">   
@@ -181,7 +154,7 @@
    	<div class="row button-section">
    		<div class="col-twelve">
    			<a href="#contact" title="Let's Talk" class="button stroke smoothscroll">Let's Talk</a>
-   			<a href="Gurman Singh Resume.docx" title="Download CV" class="button button-primary">Download CV</a>
+   			<a href="Gurman Singh Resume.pdf" title="Download CV" class="button button-primary">Download CV</a>
    		</div>   		
    	</div>
 
