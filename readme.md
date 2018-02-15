@@ -44,7 +44,7 @@
 	   			<h1>I'm Gurman Singh.</h1>
 
 	   			<p class="intro-position">
-	   				<span>Software Product Marketing @ AMD</span> 
+	   				<span>Software Product Marketing at AMD</span> 
 	   			</p>
 
 	   			<a class="button stroke smoothscroll" href="#about" title="">More About Me</a>
