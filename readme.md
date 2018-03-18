@@ -393,7 +393,7 @@
 					   </div>
 
 			         <div class="link-box">
-			            <a href="https://gaming.radeon.com/en/radeonsoftware/adrenalin/">Learn More</a>
+			            <a href="https://www.anandtech.com/show/12147/amd-releases-radeon-software-adrenalin-edition">Learn More</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
