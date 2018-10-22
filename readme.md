@@ -219,7 +219,7 @@
 	   				</div>
 
 	   				<div class="timeline-header">
-	   					<h3>Software Marketing Specialist</h3>
+	   					<h3>Software Product Marketing Specialist</h3>
 	   					<p>July 2016 - May 2018</p>
 	   				</div>
 
