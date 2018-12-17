@@ -1,4 +1,4 @@
-﻿<head>
+<head>
 
    <!--- basic page needs
    ================================================== -->
@@ -153,7 +153,7 @@
    	<div class="row button-section">
    		<div class="col-twelve">
    			<a href="#contact" title="Let's Talk" class="button stroke smoothscroll">Let's Talk</a>
-   			<a href="Gurman Singh Resume.pdf" title="Download CV" class="button button-primary">Download CV</a>
+   			<a href="Gurman Singh Resume.pdf" title="Download Resume" class="button button-primary">Download Resume</a>
    		</div>   		
    	</div>
 
@@ -201,11 +201,11 @@
 	   				<div class="timeline-content">
 	   					<h4>Advanced Micro Devices</h4>
 	   					<ul>
+	   						<li>Received an executive spotlight award for directing a 2018 software launch</li>
 	   						<li>Defined and drove Radeon Software performance plan for new products</li>
 	   						<li>Identified and prioritized software features required to meet new product experience and performance goals </li>
 	   						<li>Prepared regular performance updates for executive teams </li>
 	   						<li>Managed and coordinated specialized performance data for new application releases </li>
-	   						<li>Acquired technical knowledge to work with engineering and execution teams </li>
 	   						<li>Continuously drove the coordination of ISV engineering, performance engineering, driver development teams and technical marketing lab</li>
 	   						</ul>
 	   				</div>
@@ -226,11 +226,11 @@
 	   				<div class="timeline-content">
 	   					<h4>Advanced Micro Devices</h4>
 	   					<ul>
-	   						<li>Lead five product and software launches gathering over 1 billion total impressions </li>
-	   						<li>Communicated AMD’s value proposition and competitive positioning </li>
+	   						<li>Received a director's spotlight award for managing and coordinating a 2017 software launch</li>
+	   						<li>Lead five product and software launches gathering over 1 billion total impressions</li>
 	   						<li>Developed technical and highlevel storytelling for Radeon products </li>
 	   						<li>Conducted campaign analyses to develop company-wide KPIs which anticipate industry trends and provide recommendations for product features</li>
-	   						<li>Created marketing content for sales enablement, marketing newsletters and other customer viewable web content</li>
+	   						<li>Created marketing content for sales enablement, marketing newsletters and web content</li>
 	   						</ul>
 	   				</div>
 
@@ -278,7 +278,6 @@
 	   							<li>Stimulated Microsoft product sales by creating and launching promotions for Software as a Service (SaaS) products</li>
 	   							<li>Led social media marketing campaigns on Facebook and Twitter to increase brand awareness and purchase intent</li>
 	   							<li>Conducted market research to gain valuable customer behavior preferences to better serve customers</li>
-	   							<li>Created online advertising and marketing products to initiate a buzz within specific districts</li>
 	   							<li>Ensured marketing programs aligned with the overall strategy and vision of Microsoft Canada</li>
 	   						</ul>
 	   				</div>
@@ -316,7 +315,7 @@
 
 	   				<div class="timeline-content">
 	   					<h4>University of Western Ontario</h4>
-	   					<p>Receieved a honors Bachelor of Science degree with a concentration in genetic engineering.</p>
+	   					<p>Receieved a honors Bachelor of Science degree in genetic engineering.</p>
 	   				</div>
 
 	   			</div> <!-- /timeline-block -->
@@ -352,10 +351,26 @@
    			<!-- portfolio-wrapper -->
 	         <div id="folio-wrapper">
 
+	         <div class="bgrid folio-item">
+	               <div class="item-wrap">
+	               	<img src="images/portfolio/Adrenalin2019.png" alt="Radeon Software Adrenalin 2019 Edition">
+	                  <a href="#modal-01" class="overlay">	                  	           
+	                     <div class="folio-item-table">
+	                     	<div class="folio-item-cell">
+		     					       <h3 class="folio-title">Radeon Software Adrenalin 2019 Edition</h3>	     					    
+		     					    	 <span class="folio-types">
+		     					       	  Major Software Release
+		     					       </span>
+		     					   </div>	                      	
+	                     </div>                    
+	                  </a>
+	               </div>	               
+	        		</div> <!-- /folio-item -->
+
 	         	<div class="bgrid folio-item">
 	               <div class="item-wrap">
 	               	<img src="images/portfolio/Adrenalin.png" alt="Radeon Software Adrenalin Edition">
-	                  <a href="#modal-01" class="overlay">	                  	           
+	                  <a href="#modal-02" class="overlay">	                  	           
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
 		     					       <h3 class="folio-title">Radeon Software Adrenalin Edition</h3>	     					    
@@ -371,7 +386,7 @@
 	        		<div class="bgrid folio-item">
 	               <div class="item-wrap">
 	               	<img src="images/portfolio/Kicker.gif" alt="Radeon Software Crimson ReLive Edition 17.7.2">
-	               	<a href="#modal-02" class="overlay">              		                  
+	               	<a href="#modal-03" class="overlay">              		                  
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
 	                     		<h3 class="folio-title">Radeon Software 17.7.2</h3>	     					    
@@ -387,7 +402,7 @@
 	            <div class="bgrid folio-item">
 	               <div class="item-wrap">
 	               	<img src="images/portfolio/Relive.png" alt="Radeon Software Crimson ReLive Edition">
-	                  <a href="#modal-03" class="overlay">             		                  
+	                  <a href="#modal-04" class="overlay">             		                  
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
 	                     		<h3 class="folio-title">Radeon Software Crimson ReLive Edition</h3>	     					    
@@ -406,13 +421,36 @@
 
 				     	<div class="media">
 				     		<iframe width="100%" height="40%"
+								src="https://www.youtube.com/embed/1CApwVkIZGE">
+							</iframe>
+				     	</div>      	
+
+					   <div class="description-box">
+					      <h4>Radeon Software Adrenalin 2019 Edition</h4>		      
+					      <p>Trained AIBs and international press while leading the marketing and performance product management of a major release</p>
+					      <p>"Damn, AMD really killing it lately. Now I'm definitely going red next year!﻿" - Enthusiastic Radeon User</p>
+
+					      <div class="categories">Major Software Release</div>			               
+					   </div>
+
+			         <div class="link-box">
+			            <a href="http://vga.zol.com.cn/704/7047764.html">Learn More</a>
+					      <a href="#" class="popup-modal-dismiss">Close</a>
+			         </div>		      
+
+				   </div> <!-- /modal-01 -->
+
+	            <div id="modal-02" class="popup-modal slider mfp-hide">	
+
+				     	<div class="media">
+				     		<iframe width="100%" height="40%"
 								src="https://www.youtube.com/embed/8VcPbulxY2k">
 							</iframe>
 				     	</div>      	
 
 					   <div class="description-box">
 					      <h4>Radeon Software Adrenalin Edition</h4>		      
-					      <p>Successfully developed and activated all Radeon Software Adrenalin Edition assets. </p>
+					      <p>Successfully developed and activated all Radeon Software Adrenalin Edition assets.</p>
 					      <p>"Perfect! Finally the right way and good marketing, this is what gamers desire!﻿" - Enthusiastic Radeon User</p>
 
 					      <div class="categories">Major Software Release</div>			               
@@ -423,9 +461,9 @@
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
-				   </div> <!-- /modal-01 -->
+				   </div> <!-- /modal-02 -->
 
-				   <div id="modal-02" class="popup-modal slider mfp-hide">	
+				   <div id="modal-03" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
 				     		<iframe width="100%" height="40%"
@@ -445,9 +483,9 @@
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
-				   </div> <!-- /modal-02 -->
+				   </div> <!-- /modal-03 -->
 
-				   <div id="modal-03" class="popup-modal slider mfp-hide">	
+				   <div id="modal-04" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
 				     		<iframe width="100%" height="40%"
@@ -467,7 +505,7 @@
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
-				   </div> <!-- /modal-03 -->
+				   </div> <!-- /modal-04 -->
 				   <!-- modal popups - end
 	            ============================================================= -->
 
