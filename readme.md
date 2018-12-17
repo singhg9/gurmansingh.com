@@ -315,7 +315,7 @@
 
 	   				<div class="timeline-content">
 	   					<h4>University of Western Ontario</h4>
-	   					<p>Receieved a honors Bachelor of Science degree in genetic engineering.</p>
+	   					<p>Receieved a honors Bachelor of Science degree in genetic engineering</p>
 	   				</div>
 
 	   			</div> <!-- /timeline-block -->
