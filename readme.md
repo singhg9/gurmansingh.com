@@ -123,7 +123,7 @@
 
 				<ul class="skill-bars">
 				   <li>
-				   	<div class="progress percent85"><span>85%</span></div>
+				   	<div class="progress percent90"><span>90%</span></div>
 				   	<strong>Product Innovation</strong>
 				   </li>
 				   <li>
@@ -131,19 +131,18 @@
 				   	<strong>Processs Management</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent90"><span>90%</span></div>
+				   	<div class="progress percent80"><span>80%</span></div>
+				   	<strong>SaaS & IaaS basic architecture/strong>
+				   </li>
+				   <li>
+				   	<div class="progress percent95"><span>95%</span></div>
 				   	<strong>Marketing Strategy</strong>
 				   </li>
 				   <li>
 				   	<div class="progress percent95"><span>95%</span></div>
 				   	<strong>Content Development</strong>
 				   </li>
-				   <li>
-
-				   	<div class="progress percent80"><span>80%</span></div>
-				   	<strong>Mobile Marketing</strong>
-				   </li>
-      
+				   
 				</ul> <!-- /skill-bars -->		
 
    		</div>
