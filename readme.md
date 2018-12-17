@@ -526,7 +526,7 @@
    			<h5>Contact</h5>
    			<h1>Let's Talk!</h1>
 
-   			<p class="lead">Feel free to directly reach out to me through phone, email or LinkedIn!</p>
+   			<p class="lead">Feel free to directly reach out to me through phone, email or LinkedInsss!</p>
 
    		</div> 
    	</div> <!-- /section-intro -->
