@@ -132,7 +132,7 @@
 				   </li>
 				   <li>
 				   	<div class="progress percent80"><span>80%</span></div>
-				   	<strong>SaaS & IaaS basic architecture/strong>
+				   	<strong>SaaS & IaaS basic architecture</strong>
 				   </li>
 				   <li>
 				   	<div class="progress percent95"><span>95%</span></div>
