@@ -1,6 +1,6 @@
 ﻿<?php
 
-$siteOwnersEmail = 'gurmansingh.com';
+$siteOwnersEmail = 'gsing994@gmail.com';
 
 
 if($_POST) {
@@ -27,8 +27,8 @@ if($_POST) {
 
 
    // Set Message
-   $message .= "Email from: "info@gurmansingh.com"<br />";
-	$message .= "Email address: "gsing994@gmail.com"<br />";
+   $message .= "Email from: " . $name . "<br />";
+	$message .= "Email address: " . $email . "<br />";
    $message .= "Message: <br />";
    $message .= $contact_message;
    $message .= "<br /> ----- <br /> This email was sent from your site's contact form. <br />";
