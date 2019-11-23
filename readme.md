@@ -75,7 +75,7 @@
 
    				<img src="images/profile-pic.jpg" alt="Profile Picture">
 
-   				<p class="lead">An accomplished product management professional with over four years of bringing products to market. Experienced in strategy and leading large product releases to drive over 300 million downloads and 250 million monthly impressions. Highly organized, detail-oriented, and conscientious self-starter, able to strategize and prioritize effectively to accomplish multiple tasks with creativity, enthusiasm and humor.</p>
+   				<p class="lead">An accomplished product management professional with five years of bringing products to market. Experienced in strategy and leading large product releases to drive over 300 million downloads and 250 million monthly impressions. Highly organized, detail-oriented, and conscientious self-starter, able to strategize and prioritize effectively to accomplish multiple tasks with creativity, enthusiasm and humor.</p>
    			</div>   			
 
    		</div>   		
@@ -123,7 +123,7 @@
 
 				<ul class="skill-bars">
 				   <li>
-				   	<div class="progress percent90"><span>90%</span></div>
+				   	<div class="progress percent95"><span>95%</span></div>
 				   	<strong>Product Innovation</strong>
 				   </li>
 				   <li>
@@ -200,7 +200,8 @@
 	   				<div class="timeline-content">
 	   					<h4>Advanced Micro Devices</h4>
 	   					<ul>
-	   						<li>Received an executive spotlight award for directing a 2018 software launch</li>
+	   						<li>Received the AMD Next 5% Award for the release of 2 new innovative Radeon RX 5700 series features (Radeon Anti-Lag and Radeon Image Sharpening)</li>
+	   						<li>Received an executive spotlight award for directing the launch of Radeon Software Adrenalin 2019</li>
 	   						<li>Defined and drove Radeon Software performance plan for new products</li>
 	   						<li>Identified and prioritized software features required to meet new product experience and performance goals </li>
 	   						<li>Prepared regular performance updates for executive teams </li>
