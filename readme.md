@@ -200,13 +200,13 @@
 	   				<div class="timeline-content">
 	   					<h4>Advanced Micro Devices</h4>
 	   					<ul>
-	   						<li>Received the AMD Next 5% Award for the release of 2 new innovative Radeon RX 5700 series features (Radeon Anti-Lag and Radeon Image Sharpening)</li>
-	   						<li>Received an executive spotlight award for directing the launch of Radeon Software Adrenalin 2019</li>
-	   						<li>Defined and drove Radeon Software performance plan for new products</li>
-	   						<li>Identified and prioritized software features required to meet new product experience and performance goals </li>
-	   						<li>Prepared regular performance updates for executive teams </li>
-	   						<li>Managed and coordinated specialized performance data for new application releases </li>
-	   						<li>Continuously drove the coordination of ISV engineering, performance engineering, driver development teams and technical marketing lab</li>
+	   						<li>Managed graphics optimizations (efficient paging, shader tuning, ML heuristics) for new products driving a 15% gain in GPU product profit margin</li>
+	   						<li>Identified and prioritized key strategic graphics software required to accelerate new IP and increased 30x YoY ROI of operational expenditure (OPEX)</li>
+	   						<li>Collaborated with stakeholders, driving consensus to align on strategic goals based on market analysis</li>
+	   						<li>Created, prioritized and executed on user stories by coordinating ISV engineering and driver development targets thus enabling marketing through technical analysis</li>
+	   						<li>Defined MRDs and PRDs for specialized hardware (VCE) to create consumer-focused products, i.e. streaming and recording software platform </li>
+	   						<li>Roadmapped and prioritized products for the 70+ Radeon Software UX/UI team</li>
+	   						<li>Represented AMD to global partners, showcasing new products and features, fielding questions, providing technical support and collecting feedback on current and future developments </li>
 	   						</ul>
 	   				</div>
 
@@ -226,11 +226,11 @@
 	   				<div class="timeline-content">
 	   					<h4>Advanced Micro Devices</h4>
 	   					<ul>
-	   						<li>Received a director's spotlight award for managing and coordinating a 2017 software launch</li>
-	   						<li>Lead five product and software launches gathering over 1 billion total impressions</li>
-	   						<li>Developed technical and highlevel storytelling for Radeon products </li>
-	   						<li>Conducted campaign analyses to develop company-wide KPIs which anticipate industry trends and provide recommendations for product features</li>
-	   						<li>Created marketing content for sales enablement, marketing newsletters and web content</li>
+	   						<li>Led five product and software launches gathering over 200 million total views</li>
+	   						<li>Worked with product management to translate technical specifications and industry jargon into impactful storytelling used by PR for press releases and investor relations, along with social media for message amplification </li>
+	   						<li>Analyzed campaign postmortems to develop recommendations with action items for future releases targeted at creating and improving company-wide KPIs </li>
+	   						<li>Created marketing content for sales enablement, marketing newsletters and customer centric web content</li>
+	   						<li>Represented AMD to champion software releases on world-wide press tours, i.e webcasts, events, press interviews, etc</li>
 	   						</ul>
 	   				</div>
 
@@ -250,9 +250,9 @@
 	   				<div class="timeline-content">
 	   					<h4>University of Western Ontario</h4>
 	   					<ul>
-	   						<li>Built long term partnerships with customers to enable continued value of Microsoft products</li>
-	   						<li>Drove the adoption of Microsoft platform services through various channel driven activations </li>
-	   						<li>Recognized as a product expert and educated customers on various Microsoft solutions </li>
+	   						<li>Built long term partnerships with customers to identify and sell SaaS and IaaS products</li>
+	   						<li>Drove the adoption of platform services through various channel driven activations</li>
+	   						<li>Recognized as a regional product expert and educated customers on software value</li>
 	   						<li>Provided products which promoted the integration of accessibility with technology</li>
 	   						<li>Ensured customer value through defining and achieving business outcomes</li>
 	   						</ul>
@@ -268,14 +268,14 @@
 
 	   				<div class="timeline-header">
 	   					<h3>Microsoft Marketing Lead</h3>
-	   					<p>May 2013 - June 2014</p>
+	   					<p>August 2013 - December 2014</p>
 	   				</div>
 
 	   				<div class="timeline-content">
 	   					<h4>Intercept Group</h4>
 	   						<ul>
-	   							<li>Managed a cross-functional team to target various markets with targeted individual campaigns</li>
-	   							<li>Stimulated Microsoft product sales by creating and launching promotions for Software as a Service (SaaS) products</li>
+	   							<li>Managed a cross-functional team to educate staff and students on Office365 products</li>
+	   							<li>Stimulated product sales by creating and launching promotions for SaaS products</li>
 	   							<li>Led social media marketing campaigns on Facebook and Twitter to increase brand awareness and purchase intent</li>
 	   							<li>Conducted market research to gain valuable customer behavior preferences to better serve customers</li>
 	   							<li>Ensured marketing programs aligned with the overall strategy and vision of Microsoft Canada</li>
@@ -353,8 +353,24 @@
 
 	         <div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/portfolio/Adrenalin2019.png" alt="Radeon Software Adrenalin 2019 Edition">
+	               	<img src="images/portfolio/Adrenalin2020.jpeg" alt="Radeon Software Adrenalin 2020 Edition">
 	                  <a href="#modal-01" class="overlay">	                  	           
+	                     <div class="folio-item-table">
+	                     	<div class="folio-item-cell">
+		     					       <h3 class="folio-title">Radeon Software Adrenalin 2020 Edition</h3>	     					    
+		     					    	 <span class="folio-types">
+		     					       	  Major Software Release
+		     					       </span>
+		     					   </div>	                      	
+	                     </div>                    
+	                  </a>
+	               </div>	               
+	        		</div> <!-- /folio-item -->
+
+	         <div class="bgrid folio-item">
+	               <div class="item-wrap">
+	               	<img src="images/portfolio/Adrenalin2019.png" alt="Radeon Software Adrenalin 2019 Edition">
+	                  <a href="#modal-02" class="overlay">	                  	           
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
 		     					       <h3 class="folio-title">Radeon Software Adrenalin 2019 Edition</h3>	     					    
@@ -370,7 +386,7 @@
 	         	<div class="bgrid folio-item">
 	               <div class="item-wrap">
 	               	<img src="images/portfolio/Adrenalin.png" alt="Radeon Software Adrenalin Edition">
-	                  <a href="#modal-02" class="overlay">	                  	           
+	                  <a href="#modal-03" class="overlay">	                  	           
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
 		     					       <h3 class="folio-title">Radeon Software Adrenalin Edition</h3>	     					    
@@ -386,7 +402,7 @@
 	        		<div class="bgrid folio-item">
 	               <div class="item-wrap">
 	               	<img src="images/portfolio/Kicker.gif" alt="Radeon Software Crimson ReLive Edition 17.7.2">
-	               	<a href="#modal-03" class="overlay">              		                  
+	               	<a href="#modal-04" class="overlay">              		                  
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
 	                     		<h3 class="folio-title">Radeon Software 17.7.2</h3>	     					    
@@ -402,7 +418,7 @@
 	            <div class="bgrid folio-item">
 	               <div class="item-wrap">
 	               	<img src="images/portfolio/Relive.png" alt="Radeon Software Crimson ReLive Edition">
-	                  <a href="#modal-04" class="overlay">             		                  
+	                  <a href="#modal-05" class="overlay">             		                  
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
 	                     		<h3 class="folio-title">Radeon Software Crimson ReLive Edition</h3>	     					    
@@ -421,13 +437,35 @@
 
 				     	<div class="media">
 				     		<iframe width="100%" height="40%"
+								src="https://www.youtube.com/embed/fGg-oFnpdcs">
+							</iframe>
+				     	</div>      	
+
+					   <div class="description-box">
+					      <h4>Radeon Software Adrenalin 2020 Edition</h4>		      
+					      <p>Represented AMD to global partners, showcasing new products and features, fielding questions, providing technical support and collecting feedback on current and future developments</p>
+
+					      <div class="categories">Major Software Release</div>			               
+					   </div>
+
+			         <div class="link-box">
+			            <a href="BLOGGGGGG">Learn More</a>
+					      <a href="#" class="popup-modal-dismiss">Close</a>
+			         </div>		      
+
+				   </div> <!-- /modal-01 -->
+
+	            <div id="modal-02" class="popup-modal slider mfp-hide">	
+
+				     	<div class="media">
+				     		<iframe width="100%" height="40%"
 								src="https://www.youtube.com/embed/1CApwVkIZGE">
 							</iframe>
 				     	</div>      	
 
 					   <div class="description-box">
 					      <h4>Radeon Software Adrenalin 2019 Edition</h4>		      
-					      <p>Trained AIBs and international press while leading the marketing and performance product management of a major release</p>
+					      <p>Represented AMD to champion software releases on world-wide press tours, i.e webcasts, events, press interviews, etc</p>
 					      <p>"Damn, AMD really killing it lately. Now I'm definitely going red next year!﻿" - Enthusiastic Radeon User</p>
 
 					      <div class="categories">Major Software Release</div>			               
@@ -438,9 +476,9 @@
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
-				   </div> <!-- /modal-01 -->
+				   </div> <!-- /modal-02 -->
 
-	            <div id="modal-02" class="popup-modal slider mfp-hide">	
+	            <div id="modal-03" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
 				     		<iframe width="100%" height="40%"
@@ -461,9 +499,9 @@
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
-				   </div> <!-- /modal-02 -->
+				   </div> <!-- /modal-03 -->
 
-				   <div id="modal-03" class="popup-modal slider mfp-hide">	
+				   <div id="modal-04" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
 				     		<iframe width="100%" height="40%"
@@ -483,9 +521,9 @@
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
-				   </div> <!-- /modal-03 -->
+				   </div> <!-- /modal-04 -->
 
-				   <div id="modal-04" class="popup-modal slider mfp-hide">	
+				   <div id="modal-05" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
 				     		<iframe width="100%" height="40%"
@@ -505,7 +543,7 @@
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
-				   </div> <!-- /modal-04 -->
+				   </div> <!-- /modal-05 -->
 				   <!-- modal popups - end
 	            ============================================================= -->
 
