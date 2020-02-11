@@ -75,7 +75,7 @@
 
    				<img src="images/profile-pic.jpg" alt="Profile Picture">
 
-   				<p class="lead">An accomplished product management professional with five years of bringing products to market. Experienced in strategy and leading large product releases to drive over 300 million downloads and 250 million monthly impressions. Highly organized, detail-oriented, and conscientious self-starter, able to strategize and prioritize effectively to accomplish multiple tasks with creativity, enthusiasm and humor.</p>
+   				<p class="lead">An accomplished product management professional with four years of bringing products to market. Experienced in strategy and leading large product releases to drive over 300 million downloads and 200 million total views. Highly organized, detail-oriented, and conscientious self-starter, able to strategize and prioritize effectively to accomplish multiple tasks with creativity, enthusiasm, and humor.</p>
    			</div>   			
 
    		</div>   		
@@ -86,7 +86,7 @@
    		<div class="col-six tab-full">
 
    			<h3>Profile</h3>
-   			<p>Below is my contact information. Feel free to contact me at any time potential opportunities, career advice or a friendly coffee. </p>
+   			<p>Below is my contact information. Feel free to contact me at any time potential opportunities, career advice or a friendly coffee.</p>
 
    			<ul class="info-list">
    				<li>
@@ -119,7 +119,7 @@
    		<div class="col-six tab-full">
 
    			<h3>Skills</h3>
-   			<p>Here is how I rate my skills. I excel in creating products and would love to see them to completion.</p>
+   			<p>Here is how I rate my skills. I excel in creating products and I love to see them to completion.</p>
 
 				<ul class="skill-bars">
 				   <li>
@@ -127,20 +127,20 @@
 				   	<strong>Product Innovation</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent85"><span>80%</span></div>
+				   	<div class="progress percent95"><span>95%</span></div>
 				   	<strong>Processs Management</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent80"><span>80%</span></div>
-				   	<strong>SaaS & IaaS Architech </strong>
+				   	<div class="progress percent85"><span>85%</span></div>
+				   	<strong>LRP Forecasting</strong>
 				   </li>
 				   <li>
 				   	<div class="progress percent95"><span>95%</span></div>
 				   	<strong>Marketing Strategy</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent95"><span>95%</span></div>
-				   	<strong>Content Development</strong>
+				   	<div class="progress percent85"><span>85%</span></div>
+				   	<strong>MRD/PRD Development</strong>
 				   </li>
 				   
 				</ul> <!-- /skill-bars -->		
@@ -227,8 +227,8 @@
 	   					<h4>Advanced Micro Devices</h4>
 	   					<ul>
 	   						<li>Led five product and software launches gathering over 200 million total views</li>
-	   						<li>Worked with product management to translate technical specifications and industry jargon into impactful storytelling used by PR for press releases and investor relations, along with social media for message amplification </li>
-	   						<li>Analyzed campaign postmortems to develop recommendations with action items for future releases targeted at creating and improving company-wide KPIs </li>
+	   						<li>Worked with product management to translate technical specifications and industry jargon into impactful storytelling used by PR for press releases and investor relations, along with social media for message amplification</li>
+	   						<li>Analyzed campaign postmortems to develop recommendations with action items for future releases targeted at creating and improving company-wide KPIs</li>
 	   						<li>Created marketing content for sales enablement, marketing newsletters and customer centric web content</li>
 	   						<li>Represented AMD to champion software releases on world-wide press tours, i.e webcasts, events, press interviews, etc</li>
 	   						</ul>
@@ -253,8 +253,6 @@
 	   						<li>Built long term partnerships with customers to identify and sell SaaS and IaaS products</li>
 	   						<li>Drove the adoption of platform services through various channel driven activations</li>
 	   						<li>Recognized as a regional product expert and educated customers on software value</li>
-	   						<li>Provided products which promoted the integration of accessibility with technology</li>
-	   						<li>Ensured customer value through defining and achieving business outcomes</li>
 	   						</ul>
 	   				</div>
 
@@ -353,7 +351,7 @@
 
 	         <div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/portfolio/Adrenalin2020.jpeg" alt="Radeon Software Adrenalin 2020 Edition">
+	               	<img src="images/portfolio/Adrenalin2020.jpg" alt="Radeon Software Adrenalin 2020 Edition">
 	                  <a href="#modal-01" class="overlay">	                  	           
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
@@ -449,7 +447,7 @@
 					   </div>
 
 			         <div class="link-box">
-			            <a href="BLOGGGGGG">Learn More</a>
+			            <a href="https://community.amd.com/community/gaming/blog/2019/12/10/change-the-way-you-game-with-amd-radeon-software-adrenalin-2020-edition">Learn More</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
